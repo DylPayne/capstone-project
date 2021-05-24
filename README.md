@@ -18,5 +18,9 @@ To use this feature all you need to do is click the thumbs up, and the backgroun
 ### Add a comment:
 To add a comment simply navigate to the comments page and click add comment. A form will appear which allows you to fill in your data.  
 
+### Contact me:  
+To contact me simply navigate the the contact me page and fill out the form.  
+![contact me screenshot](contact-me-form.png)
+
 <br></br>
 *created by Dylan Payne*
